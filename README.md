@@ -23,8 +23,8 @@ It fetches real-time weather using **Open-Meteo API**
 #3. Jokes Generator  
 Random programming jokes from a predefined list.
 
-#4. Date and Time
-Fetches current date and time.
+#4. Date and time
+ Displays current date and time on command
 
 ## Tech Stack:
 - Python 3  
