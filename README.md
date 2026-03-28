@@ -13,17 +13,17 @@ This is a simple and smart Python-based chatbot that works in the console.
 
 ## Features:
 
-#1. AI Chat (Ollama LLM)
+#1. AI Chat (Ollama LLM):
 This chatbot uses **Ollama** (Local LLM) to generate smart replies.
 You can customize the prompt anytime.
 
-#2. Weather Checker  
+#2. Weather Checker:
 It fetches real-time weather using **Open-Meteo API**  
 
-#3. Jokes Generator  
-Random programming jokes from a predefined list.
+#3. Jokes Generator:
+ Random programming jokes from a predefined list.
 
-#4. Date and time
+#4. Date and time: 
  Displays current date and time on command
 
 ## Tech Stack:
