@@ -1,3 +1,7 @@
-requests
-ollama
+## requests
+## ollama
+These are external modules.(to be installed)
 
+#random
+#datetime
+These are in built modules.(already installed)
